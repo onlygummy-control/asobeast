@@ -3,6 +3,14 @@
 All notable changes to asobeast are documented here. This project adheres to
 [Semantic Versioning](https://semver.org/).
 
+## [1.15.1](https://github.com/AsoBeast/asobeast/compare/v1.15.0...v1.15.1) (2026-11-02)
+
+
+### Bug Fixes
+
+* **jobs:** score keywords only for workspaces that may collect ([#658](https://github.com/AsoBeast/asobeast/issues/658)) ([c49f547](https://github.com/AsoBeast/asobeast/commit/c49f547b75b8899d27aeeda45b6bea7191c0acaa))
+* **web:** keep the captured day picker e2e cases independent of the date ([#665](https://github.com/AsoBeast/asobeast/issues/665)) ([5d78c2c](https://github.com/AsoBeast/asobeast/commit/5d78c2cedd431f30a086453ad9f7e9fcac73cd94))
+
 ## [1.15.0](https://github.com/AsoBeast/asobeast/compare/v1.14.0...v1.15.0) (2026-10-31)
 
 
